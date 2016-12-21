@@ -32,3 +32,5 @@ then pull from github in ecplise
 test fetch
 
 no passwd
+
+conf
