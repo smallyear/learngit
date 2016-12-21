@@ -2,3 +2,4 @@
 git is a free software under the GPL 
 iam learning git
 git has a mutable index called stage
+git tracks changes
