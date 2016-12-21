@@ -13,3 +13,5 @@ bash start.sh
 
 ####branch feature
 Creating a new branch is quick AND simple
+
+--no-ff merge
