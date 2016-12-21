@@ -16,4 +16,4 @@ Creating a new branch is quick AND simple
 
 --no-ff merge
 
-my branch test
+my branch tests
