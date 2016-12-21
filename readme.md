@@ -10,3 +10,6 @@ bash start.sh
 |:----|----|
 |james|sabi|
 |wade|hero|
+
+####branch feature
+Creating a new branch is quick AND simple
