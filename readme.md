@@ -24,3 +24,7 @@ anthor edit dir jump
 eclispe  
 
 my
+
+edit in git bash 
+i want to push to github
+then pull from github in ecplise
