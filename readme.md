@@ -19,3 +19,7 @@ Creating a new branch is quick AND simple
 my branch tests
 
 anthor edit dir jump
+
+eclispe  
+
+my
