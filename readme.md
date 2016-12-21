@@ -18,4 +18,4 @@ Creating a new branch is quick AND simple
 
 my branch tests
 
-issue-101 edit
+issue-101 edits
