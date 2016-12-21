@@ -30,3 +30,5 @@ i want to push to github
 then pull from github in ecplise
 
 test fetch
+
+no passwd
