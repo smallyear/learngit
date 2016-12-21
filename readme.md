@@ -15,3 +15,5 @@ bash start.sh
 Creating a new branch is quick AND simple
 
 --no-ff merge
+
+my branch test
