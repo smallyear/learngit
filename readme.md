@@ -19,3 +19,8 @@ Creating a new branch is quick AND simple
 my branch tests
 
 issue-101 edits
+anthor edit dir jump
+
+eclispe  
+
+my
