@@ -12,4 +12,4 @@ bash start.sh
 |wade|hero|
 
 ####branch feature
-Creating a new branch is quick & simple
+Creating a new branch is quick AND simple
